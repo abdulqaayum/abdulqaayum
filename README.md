@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulqaayum
-- 👀 I’m interested in frontend developer 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on web development 
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me WhatsApp +2348166416645
 
 <!---
